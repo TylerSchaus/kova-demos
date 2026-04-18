@@ -2,6 +2,6 @@
   publish = "."
 
 [[redirects]]
-  from = "/*"
+  from = "/*/
   to = "/:splat/index.html"
   status = 200
